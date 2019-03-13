@@ -9,7 +9,8 @@
     "dev-build": "webpack -d",
     "dev-start": "nodemon server/index.js",
     "build": "webpack -p",
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "seed": "node db/seed.js"
   },
   "author": "Neil Vodoor",
   "license": "MIT",

@@ -1,3 +1,4 @@
+const db = require('./index.js');
 const mongoose = require('mongoose');
 const schema = mongoose.Schema;
 
