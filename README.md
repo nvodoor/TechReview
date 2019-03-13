@@ -8,7 +8,7 @@
 - Students should be able to update vote of candidate.
 - Students should render a list of all candidates.
 
-##Stretch Goals
+## Stretch Goals
 
 - Student should be able to create a route to add a new candidate.
 - Students should be able to create a route to delete a candidate.
